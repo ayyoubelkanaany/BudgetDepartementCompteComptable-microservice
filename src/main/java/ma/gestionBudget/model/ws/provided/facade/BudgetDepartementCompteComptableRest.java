@@ -16,7 +16,6 @@ import ma.gestionBudget.model.ws.provided.converter.BDCCConverter;
 import ma.gestionBudget.model.ws.provided.vo.BudgetDepartementCompteComptableVo;
 
 	
-	@CrossOrigin(origins = "http://localhost:4200")
 	@RestController
 	public class BudgetDepartementCompteComptableRest {
 	@Autowired
